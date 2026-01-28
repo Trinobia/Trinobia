@@ -50,7 +50,7 @@ If you’re interested in working with us or learning from us, we’d love to he
 ## 📫 Contact
 
 🌐 Website: *Coming soon*  
-📧 Email: *contact@trinobia.com* (or your real email)  
+📧 Email: *Coming soon* 
 
 ---
 
