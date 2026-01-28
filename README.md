@@ -8,7 +8,7 @@ Trinobia is a bioinformatics company focused on delivering **high-impact, data-d
 
 ## 🧬 What We Do
 
-We work at the intersection of **biology, data science, and software engineering**.
+We work at the intersection of **Bioinformatics, Genetics, and Training**.
 
 **Services**
 - Bioinformatics analysis for genomics, transcriptomics, and multi-omics data  
@@ -28,34 +28,10 @@ We work at the intersection of **biology, data science, and software engineering
 We believe that:
 - **Biological insight comes from rigorous data analysis**
 - **Reproducibility is non-negotiable**
-- **Researchers deserve tools they can understand and trust**
+- **Researchers deserve tools they can use, understand and trust**
 - **Training empowers science to move faster and farther**
 
 Our work emphasizes clean code, transparent methods, and biologically meaningful interpretation — not black boxes.
-
----
-
-## 🛠 Technologies We Use
-
-- Python, R, Bash  
-- Nextflow / Snakemake  
-- Linux & HPC environments  
-- Cloud and containerized workflows  
-- Modern data visualization and statistical frameworks  
-
-(Technology choices are always driven by the scientific question.)
-
----
-
-## 📂 Our GitHub
-
-This GitHub organization hosts:
-- Open-source bioinformatics tools  
-- Reproducible analysis pipelines  
-- Training materials and example workflows  
-- Research utilities developed at Trinobia  
-
-Some repositories are experimental; others are production-ready. Each project clearly documents its scope and maturity.
 
 ---
 
