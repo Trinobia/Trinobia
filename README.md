@@ -1,6 +1,6 @@
 # Trinobia
 
-**Data-driven Bioinformatics for modern biomedical research.**
+**Data-driven Bioinformatics Solutions.**
 
 Trinobia is a bioinformatics company focused on delivering **high-impact, data-driven solutions** and **hands-on training** for biomedical researchers. We help research teams turn complex biological data into actionable insight — reproducibly, transparently, and at scale.
 
@@ -49,8 +49,7 @@ If you’re interested in working with us or learning from us, we’d love to he
 
 ## 📫 Contact
 
-🌐 Website: *Coming soon*  
-📧 Email: *Coming soon* 
+🌐 Website: www.trinobia.com  
 
 ---
 
